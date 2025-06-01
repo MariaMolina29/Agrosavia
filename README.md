@@ -12,14 +12,6 @@ Este repositorio contiene un conjunto de scripts y notebooks diseñados para el 
    - [Scripts Bash](#scripts-bash)  
    - [Scripts Python](#scripts-python)  
    - [Notebooks (Jupyter)](#notebooks-jupyter)  
-4. [Uso de los Scripts](#uso-de-los-scripts)  
-   - [1. Identificación y Filtrado de Reads por Tile](#1-identificación-y-filtrado-de-reads-por-tile)  
-   - [2. Extracción de BEDs a partir de GFF](#2-extracción-de-beds-a-partir-de-gff)  
-   - [3. Conteo y Visualización de Clusters DeepBGC](#3-conteo-y-visualización-de-clusters-deepbgc)  
-   - [4. Procesamiento de Secuencias Génicas por Muestras](#4-procesamiento-de-secuencias-génicas-por-muestras)  
-5. [Notebooks de Análisis](#notebooks-de-análisis)  
-6. [Licencia](#licencia)  
-
 ---
 
 ## Descripción General
